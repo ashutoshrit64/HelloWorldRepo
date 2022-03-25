@@ -1,9 +1,9 @@
 package com.bridgelabz;
 
-public class Fibonacci {
+public class HarmonicNumber {
 
 	public static void main(String[] args) {
-		System.out.print("welcome to fibonacci");
+		System.out.print("harmonic number");
 
 	}
 
